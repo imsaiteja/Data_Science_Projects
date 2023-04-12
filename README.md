@@ -1,2 +1,1 @@
-
-My Data Science Internship Projects 
+My Data Science Intro Projects 
